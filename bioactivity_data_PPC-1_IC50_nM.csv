@@ -1,0 +1,125 @@
+assay_chembl_id,assay_description,canonical_smiles,document_journal,molecule_chembl_id,standard_value,IC50_uM,Activity
+CHEMBL825133,Antiproliferative activity against prostate cancer PPC-1 cell line using sulforhodamine B(SRB) assay,CCCCCCCNC(=O)[C@H]1CSC(c2ccccc2)N1.Cl,J Med Chem,CHEMBL535598,34700,34.7,No
+CHEMBL825133,Antiproliferative activity against prostate cancer PPC-1 cell line using sulforhodamine B(SRB) assay,CCCCCCCCCCCCCCCCCCNC(=O)[C@H]1CSC(c2ccc(OC)c(OC)c2)N1.Cl,J Med Chem,CHEMBL540876,580,0.58,Yes
+CHEMBL825133,Antiproliferative activity against prostate cancer PPC-1 cell line using sulforhodamine B(SRB) assay,CCCCCCCCCCCCCCCCCCNC(=O)[C@H]1CSC(c2cc(OC)c(OC)c(OC)c2)N1.Cl,J Med Chem,CHEMBL556756,480,0.48,Yes
+CHEMBL825133,Antiproliferative activity against prostate cancer PPC-1 cell line using sulforhodamine B(SRB) assay,CCCCCCCCCCCCCCCCCCNC(=O)[C@H]1CSC(c2ccc(NC(C)=O)cc2)N1.Cl,J Med Chem,CHEMBL556956,550,0.55,Yes
+CHEMBL825133,Antiproliferative activity against prostate cancer PPC-1 cell line using sulforhodamine B(SRB) assay,CC(=O)O[C@H]1C(=O)[C@@]2(C)[C@H]([C@H](OC(=O)c3ccccc3)[C@]3(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)c4ccccc4)c4ccccc4)C(C)=C1C3(C)C)[C@]1(OC(C)=O)CO[C@@H]1C[C@@H]2O,J Med Chem,CHEMBL428647,3.4,0.0034,Yes
+CHEMBL891308,Antiproliferative activity against PPC1 cells after 72 hrs by MTT assay,Nc1nc2ncc(CNc3ccc(C(=O)N[C@@H](CCC(=O)NO)C(=O)O)cc3)nc2c(=O)[nH]1,Bioorg Med Chem,CHEMBL396294,80000,80,No
+CHEMBL891308,Antiproliferative activity against PPC1 cells after 72 hrs by MTT assay,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,Bioorg Med Chem,CHEMBL34259,100,0.1,Yes
+CHEMBL891308,Antiproliferative activity against PPC1 cells after 72 hrs by MTT assay,Nc1nc2ncc(CNc3ccc(C(=O)N[C@@H](CCC(=O)N[C@@H](Cc4ccccc4)C(=O)NO)C(=O)O)cc3)nc2c(=O)[nH]1,Bioorg Med Chem,CHEMBL267603,70000,70,No
+CHEMBL891313,Antiproliferative activity against PPC1 cells after 72 hrs in folate depleted media,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)NO)C(=O)O)cc1,Bioorg Med Chem,CHEMBL244883,50,0.05,Yes
+CHEMBL891313,Antiproliferative activity against PPC1 cells after 72 hrs in folate depleted media,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,Bioorg Med Chem,CHEMBL34259,10,0.01,Yes
+CHEMBL891313,Antiproliferative activity against PPC1 cells after 72 hrs in folate depleted media,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)N2CCC[C@H]2C(=O)NO)C(=O)O)cc1,Bioorg Med Chem,CHEMBL388879,200,0.2,Yes
+CHEMBL891313,Antiproliferative activity against PPC1 cells after 72 hrs in folate depleted media,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)N[C@@H](Cc2ccccc2)C(=O)NO)C(=O)O)cc1,Bioorg Med Chem,CHEMBL396296,500,0.5,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,CCCCCCCCCCCCCCCCNC(=O)[C@@H]1CSC(c2ccc(NC(C)=O)cc2)N1,J Med Chem,CHEMBL236918,400,0.4,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccc(N)cc3)n2)cc(OC)c1OC.Cl,J Med Chem,CHEMBL511796,15,0.015,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3cccs3)n2)cc(OC)c1OC,J Med Chem,CHEMBL510476,13,0.013,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,CCc1ccc(-c2nc(C(=O)c3cc(OC)c(OC)c(OC)c3)cs2)cc1,J Med Chem,CHEMBL459993,22,0.022,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccc(Br)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL459992,21,0.021,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccc(C(F)(F)F)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL459775,76,0.076,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccc(C#N)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL517098,19,0.019,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccc([N+](=O)[O-])cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL459774,34,0.034,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1ccc(-c2nc(C(=O)c3cc(OC)c(OC)c(OC)c3)cs2)cc1OC,J Med Chem,CHEMBL471410,56,0.056,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccc(F)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL513054,8,0.008,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3cccc(F)c3)n2)cc(OC)c1OC,J Med Chem,CHEMBL471208,21,0.021,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccccc3F)n2)cc(OC)c1OC,J Med Chem,CHEMBL472454,52,0.052,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccc(C)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL499424,6,0.006,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc(OC)cc(C(=O)c2csc(-c3ccccc3)n2)c1,J Med Chem,CHEMBL472248,242,0.242,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL459773,43,0.043,Yes
+CHEMBL1010707,Cytotoxicity against human PPC1 cells after 48 hrs by SRB assay,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(C)=O)CC2,J Med Chem,CHEMBL107,20,0.02,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCC/C=C\CCCCCCCNC(=O)[C@@H]1CSC(c2cc(OC)c(OC)c(OC)c2)N1,Bioorg Med Chem,CHEMBL603889,500,0.5,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCC/C=C/CCCCCCCNC(=O)[C@@H]1CSC(c2cc(OC)c(OC)c(OC)c2)N1,Bioorg Med Chem,CHEMBL598664,300,0.3,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCCCCCCCCCCCNC(=O)[C@@H]1CSC(c2ccc(OC)c(OC)c2)N1,Bioorg Med Chem,CHEMBL598302,900,0.9,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCC/C=C\CCCCCCCNC(=O)[C@@H]1CSC(c2ccc(OC)c(OC)c2)N1,Bioorg Med Chem,CHEMBL598303,600,0.6,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCC/C=C/CCCCCCCNC(=O)[C@@H]1CSC(c2ccc(OC)c(OC)c2)N1,Bioorg Med Chem,CHEMBL598304,300,0.3,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCCCCCCCCCNC(=O)[C@@H]1CSC(c2cccc(OC)c2)N1,Bioorg Med Chem,CHEMBL599749,200,0.2,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCCCCCCCCCNC(=O)[C@@H]1CSC(c2ccc(OC)cc2)N1,Bioorg Med Chem,CHEMBL599750,400,0.4,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCCCCCCCCCNC(=O)[C@@H]1CSC(c2ccc(N(C)C)cc2)N1,Bioorg Med Chem,CHEMBL597703,400,0.4,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCCCCCCCCCCCN(C)C(=O)[C@@H]1CSC(c2ccc(NC(C)=O)cc2)N1,Bioorg Med Chem,CHEMBL597912,800,0.8,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CC(=O)Nc1ccc(C2N[C@H](C(=O)Nc3ccc4cc5ccccc5cc4c3)CS2)cc1,Bioorg Med Chem,CHEMBL600380,700,0.7,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCC/C=C/CCCCCCCNC(=O)[C@@H]1CSC(c2ccccc2)N1,Bioorg Med Chem,CHEMBL606211,600,0.6,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCCCCCCCCCNC(=O)[C@@H]1CSC(c2ccc(N)cc2)N1,Bioorg Med Chem,CHEMBL391250,600,0.6,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCCCCCCCCCNC(=O)[C@@H]1CSC(c2ccc(NC(=O)CCl)cc2)N1,Bioorg Med Chem,CHEMBL598527,400,0.4,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCCCCCCCCCNC(=O)[C@@H]1CSC(c2ccc(NC(C)=O)cc2)N1,Bioorg Med Chem,CHEMBL236918,400,0.4,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCCCCCCCCCNC(=O)[C@@H]1CSC(c2cccc(NC(C)=O)c2)N1,Bioorg Med Chem,CHEMBL598519,500,0.5,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCC#CCCCCCCCCCNC(=O)[C@@H]1CSC(c2ccc(NC(C)=O)cc2)N1,Bioorg Med Chem,CHEMBL602458,700,0.7,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCCCCCCCCCNC(=O)[C@@H]1CSC(c2ccc(NC(N)=O)cc2)N1,Bioorg Med Chem,CHEMBL598735,500,0.5,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCCCCCCCNC(=O)[C@@H]1CSC(c2cc(OC)c(OC)c(OC)c2)N1,Bioorg Med Chem,CHEMBL237542,600,0.6,Yes
+CHEMBL1066495,Antiproliferative activity against human PPC1 cells after 96 hrs by SRB assay,CCCCCCCCCCCCCCNC(=O)[C@H]1CSC(c2cc(OC)c(OC)c(OC)c2)N1,Bioorg Med Chem,CHEMBL235865,700,0.7,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1cc(C(=O)c2c[nH]c(-c3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1271737,130,0.13,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,O=C(c1ccc(F)cc1)c1c[nH]c(-c2ccccc2)n1,J Med Chem,CHEMBL1269807,570,0.57,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1cc(C(=O)c2c[nH]c(-c3ccc(F)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1271912,81,0.081,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1ccc(-c2nc(C(=O)c3cc(OC)c(OC)c(OC)c3)c[nH]2)cc1,J Med Chem,CHEMBL1271967,34,0.034,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1ccc(-c2nc(C(=O)c3ccc(F)cc3)c[nH]2)cc1,J Med Chem,CHEMBL1271968,29,0.029,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1cc(C(=O)c2c[nH]c(-c3ccc(C)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1272023,11,0.011,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,Cc1ccc(-c2nc(C(=O)c3ccc(F)cc3)c[nH]2)cc1,J Med Chem,CHEMBL1272024,54,0.054,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1cc(C(=O)c2c[nH]c(-c3ccc(Cl)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1272129,26,0.026,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,O=C(c1ccc(F)cc1)c1c[nH]c(-c2ccc(Cl)cc2)n1,J Med Chem,CHEMBL1272130,52,0.052,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1cc(C(=O)c2c[nH]c(-c3ccc(N(C)C)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1272183,67,0.067,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,CN(C)c1ccc(-c2nc(C(=O)c3ccc(F)cc3)c[nH]2)cc1,J Med Chem,CHEMBL1272184,45,0.045,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1ccc(-c2nc(C(=O)c3cc(OC)c(OC)c(OC)c3)c[nH]2)cc1OC,J Med Chem,CHEMBL1272239,117,0.117,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,O=C(c1ccc(F)cc1)c1c[nH]c(-c2ccc(OCc3ccccc3)cc2)n1,J Med Chem,CHEMBL1271525,43,0.043,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1cc(C(=O)c2c[nH]c(-c3ccc(C(F)(F)F)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1271580,110,0.11,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(C)=O)CC2,J Med Chem,CHEMBL107,20,0.02,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,O=C(c1ccc(F)cc1)c1cnc(-c2ccccc2)n1S(=O)(=O)c1ccccc1,J Med Chem,CHEMBL1271740,575,0.575,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1ccc(-c2ncc(C(=O)c3ccc(F)cc3)n2S(=O)(=O)c2ccccc2)cc1,J Med Chem,CHEMBL1271800,32,0.032,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,Cc1ccc(-c2ncc(C(=O)c3ccc(F)cc3)n2S(=O)(=O)c2ccccc2)cc1,J Med Chem,CHEMBL1271801,57,0.057,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,O=C(c1ccc(F)cc1)c1cnc(-c2ccc(Cl)cc2)n1S(=O)(=O)c1ccccc1,J Med Chem,CHEMBL1271913,54,0.054,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1cc(C(=O)c2cnc(-c3ccc(N(C)C)cc3)n2S(=O)(=O)c2ccccc2)cc(OC)c1OC,J Med Chem,CHEMBL1271914,72,0.072,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,CN(C)c1ccc(-c2ncc(C(=O)c3ccc(F)cc3)n2S(=O)(=O)c2ccccc2)cc1,J Med Chem,CHEMBL1271969,48,0.048,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,COc1ccc(-c2ncc(C(=O)c3cc(OC)c(OC)c(OC)c3)n2S(=O)(=O)c2ccccc2)cc1OC,J Med Chem,CHEMBL1271970,117,0.117,Yes
+CHEMBL1272406,Cytotoxicity against human PPC1 cells after 48 hrs by sulforhodamine B assay,O=C(c1ccc(F)cc1)c1cnc(-c2ccc(OCc3ccccc3)cc2)n1S(=O)(=O)c1ccccc1,J Med Chem,CHEMBL1272082,38,0.038,Yes
+CHEMBL1816402,Antiproliferative activity against human PPC1 cells after 96 hrs by sulforhodamine B assay,COc1cc(C(=O)c2c[nH]c(-c3ccc(C)cc3)n2)cc(OC)c1O,Bioorg Med Chem,CHEMBL1813152,110,0.11,Yes
+CHEMBL1816402,Antiproliferative activity against human PPC1 cells after 96 hrs by sulforhodamine B assay,COc1cc(C(=O)c2c[nH]c(-c3ccc(Cl)cc3)n2)cc(OC)c1O,Bioorg Med Chem,CHEMBL1813153,580,0.58,Yes
+CHEMBL1816402,Antiproliferative activity against human PPC1 cells after 96 hrs by sulforhodamine B assay,COc1cc(C(=O)c2cn(Cc3ccccc3)c(-c3ccc(C)cc3)n2)cc(OC)c1OC,Bioorg Med Chem,CHEMBL1813154,780,0.78,Yes
+CHEMBL1816402,Antiproliferative activity against human PPC1 cells after 96 hrs by sulforhodamine B assay,COc1cc(C(=O)c2cn(C)c(-c3ccc(C)cc3)n2)cc(OC)c1OC,Bioorg Med Chem,CHEMBL1813155,30,0.03,Yes
+CHEMBL1816402,Antiproliferative activity against human PPC1 cells after 96 hrs by sulforhodamine B assay,COc1ccc(S(=O)(=O)n2cc(C(=O)c3ccc(F)cc3)nc2-c2ccc(N(C)C)cc2)cc1,Bioorg Med Chem,CHEMBL1813157,60,0.06,Yes
+CHEMBL1816402,Antiproliferative activity against human PPC1 cells after 96 hrs by sulforhodamine B assay,COc1cc(C(=O)c2c[nH]c(-c3ccc(Br)cc3)n2)cc(OC)c1OC,Bioorg Med Chem,CHEMBL1813158,30,0.03,Yes
+CHEMBL1816402,Antiproliferative activity against human PPC1 cells after 96 hrs by sulforhodamine B assay,COc1ccc2[nH]c(C(=O)c3cc(OC)c(OC)c(OC)c3)cc2c1,Bioorg Med Chem,CHEMBL140681,50,0.05,Yes
+CHEMBL1816402,Antiproliferative activity against human PPC1 cells after 96 hrs by sulforhodamine B assay,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(C)=O)CC2,Bioorg Med Chem,CHEMBL107,20,0.02,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(/C(=N\N)c2csc(-c3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1830216,966,0.966,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(/C(=N/N)c2csc(-c3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1830215,872,0.872,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1ccc(S(=O)(=O)Nc2cccnc2Nc2ccc(O)cc2)cc1.Cl,J Med Chem,CHEMBL1830238,701,0.701,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(/C(=C/C#N)c2csc(-c3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1830217,900,0.9,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2coc(-c3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1830200,343,0.343,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2cc(-c3ccccc3)n[nH]2)cc(OC)c1OC,J Med Chem,CHEMBL1830206,84,0.084,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2cccc(-c3ccccc3)c2)cc(OC)c1OC,J Med Chem,CHEMBL1830201,80,0.08,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(/C(=N/O)c2csc(-c3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1830210,144,0.144,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)[C@@H]2CSC(c3ccc(O[Si](C)(C)C(C)(C)C)cc3)=N2)cc(OC)c1OC,J Med Chem,CHEMBL1830229,246,0.246,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL459773,43,0.043,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3cc4ccccc4[nH]3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1830230,28,0.028,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccc(O)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1830197,76,0.076,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccccc3)c2)cc(OC)c1OC,J Med Chem,CHEMBL1830205,15,0.015,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2ccc(-c3ccccc3)o2)cc(OC)c1OC,J Med Chem,CHEMBL1830204,20,0.02,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2cccc(-c3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1830203,25,0.025,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2csc(Nc3ccc(C)cc3)n2)cc(OC)c1OC.Cl,J Med Chem,CHEMBL1830236,36,0.036,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2csc(Nc3ccc(F)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1830237,37,0.037,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2csc(Nc3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1830198,54,0.054,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccc(CN)cc3)n2)cc(OC)c1OC.Cl,J Med Chem,CHEMBL1830233,34,0.034,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(C(=O)c2csc(-c3ccc4[nH]ccc4c3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1830231,8,0.008,Yes
+CHEMBL1832180,Anticancer activity against human PPC1 cells after 96 hrs by SRB assay,COc1cc(/C(=N\C#N)c2csc(-c3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1830219,20,0.02,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccccc3)c(C)[nH]2)cc(OC)c1OC,J Med Chem,CHEMBL2322319,860,0.86,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccccc3)cn2-c2ccccn2)cc(OC)c1OC,J Med Chem,CHEMBL2322317,8,0.008,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccccc3)cn2C2CCCC2)cc(OC)c1OC,J Med Chem,CHEMBL2322316,63,0.063,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccccc3)cn2C(C)C)cc(OC)c1OC,J Med Chem,CHEMBL2322315,15,0.015,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,CCCn1cc(-c2ccccc2)nc1C(=O)c1cc(OC)c(OC)c(OC)c1,J Med Chem,CHEMBL2322314,10,0.01,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccccc3)cn2Cc2ccccc2)cc(OC)c1OC,J Med Chem,CHEMBL2322313,77,0.077,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,CCn1cc(-c2ccccc2)nc1C(=O)c1cc(OC)c(OC)c(OC)c1,J Med Chem,CHEMBL2322312,30,0.03,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccccc3)cn2C)cc(OC)c1OC,J Med Chem,CHEMBL2322311,13,0.013,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(-c2c[nH]c(C(=O)c3ccc(Br)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL2324337,106,0.106,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(-c2c[nH]c(C(=O)c3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL2324336,408,0.408,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccc(O)cc3)c[nH]2)cc(OC)c1OC,J Med Chem,CHEMBL2324335,122,0.122,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccc(N(C)C)cc3)c[nH]2)cc(OC)c1OC,J Med Chem,CHEMBL2324334,120,0.12,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1ccc(-c2c[nH]c(C(=O)c3cc(OC)c(OC)c(OC)c3)n2)cc1,J Med Chem,CHEMBL2324333,54,0.054,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccc(C)cc3)c[nH]2)cc(OC)c1OC,J Med Chem,CHEMBL2321902,18,0.018,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccc(C(F)(F)F)cc3)c[nH]2)cc(OC)c1OC,J Med Chem,CHEMBL2323924,74,0.074,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccc(Br)cc3)c[nH]2)cc(OC)c1OC,J Med Chem,CHEMBL2323923,30,0.03,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccc(Cl)cc3)c[nH]2)cc(OC)c1OC,J Med Chem,CHEMBL2323922,51,0.051,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccc(F)cc3)c[nH]2)cc(OC)c1OC,J Med Chem,CHEMBL2323921,134,0.134,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2nc(-c3ccccc3)c[nH]2)cc(OC)c1OC,J Med Chem,CHEMBL2323920,13,0.013,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1ccc(C(=O)c2nc(-c3ccc(OC)cc3)c[nH]2)cc1,J Med Chem,CHEMBL2323918,38150,38.15,No
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2c[nH]c(-c3ccc(C(C)(C)C)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL2323906,294,0.294,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2c[nH]c(-c3ccc(C(C)C)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL2323905,173,0.173,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,CCc1ccc(-c2nc(C(=O)c3cc(OC)c(OC)c(OC)c3)c[nH]2)cc1,J Med Chem,CHEMBL2323904,15,0.015,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2c[nH]c(-c3ccc(C)cc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1272023,15,0.015,Yes
+CHEMBL2330841,Cytotoxicity against human PPC1 cells assessed as growth inhibition after 96 hrs by SRB assay,COc1cc(C(=O)c2c[nH]c(-c3ccccc3)n2)cc(OC)c1OC,J Med Chem,CHEMBL1271737,133,0.133,Yes
